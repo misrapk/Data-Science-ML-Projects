@@ -29,6 +29,8 @@ Data collected from the known Source
 ## Visualization
 
 Creating visual representations of the data to provide insights into social media trends and sentiments.
+![alt text](images/image.png)
+![alt text](images/image-1.png)
 
 ## Tools and Technologies
 
